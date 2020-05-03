@@ -1,0 +1,14 @@
+{
+  "name": "tester",
+  "version": "1.0.0",
+  "description": "A (very) simple testing framework",
+  "main": "index.js",
+  "author": "Matheus Lima",
+  "license": "MIT",
+  "scripts": {
+    "test": "node tests"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
